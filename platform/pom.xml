@@ -36,8 +36,8 @@
     </build>
 
     <scm>
-        <connection>scm:git:https://github.com/motech/release-testing.git</connection>
-        <developerConnection>scm:git:https://github.com/motech/release-testing.git</developerConnection>
+        <connection>scm:git:git@github.com:motech/release-testing.git</connection>
+        <developerConnection>scm:git:git@github.com:motech/release-testing.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
