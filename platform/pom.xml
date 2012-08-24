@@ -9,8 +9,8 @@
     <packaging>jar</packaging>
 
     <properties>
-        <scm.connection></scm.connection>
-        <scm.developerConnection></scm.developerConnection>
+        <scm.connection>scm:git:https://github.com/motech/release-testing.git</scm.connection>
+        <scm.developerConnection>scm:git:https://github.com/motech/release-testing.git</scm.developerConnection>
     </properties>
 
     <dependencies>
@@ -37,8 +37,8 @@
     </build>
 
     <scm>
-        <connection>${scm.connection}</connection>
-        <developerConnection>${scm.developerConnection}</developerConnection>
+        <connection>scm:git:https://github.com/motech/release-testing.git</connection>
+        <developerConnection>scm:git:https://github.com/motech/release-testing.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
