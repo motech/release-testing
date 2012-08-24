@@ -32,4 +32,11 @@
         </plugins>
 
     </build>
+
+    <scm>
+        <connection>${scm.connection}</connection>
+        <developerConnection>${scm.developerConnection}</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
+
 </project>
